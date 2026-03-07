@@ -28,7 +28,7 @@ Active Directory, její logická a fyzická struktura, doména, doménový řadi
 
 Vysvětlení pojmů fyzická struktura Active Directory, objekt lokality, replikace, druhy replikací, replikace intrasite a intersite – rozdíly, možnosti ovlivnění času replikace mezi řadiči A.D. v různých lokalitách, možnosti ovlivnění ověřování přihlašujících se uživatelů na konkrétním řadiči v konkrétní lokalitě, předvedení tvorby lokalit  a konfigurace procesů replikace.
 
-## 8. Tvorba a správa objektů Active Directory
+## [8. Tvorba a správa objektů Active Directory](/SPS/questions/Q8.md)
 
 Logická struktura A.D., uzlové a koncové objekty, doména, kontejner a organizační jednotka (útvar) - rozdíly, lokalita (síť), základní koncové objekty (uživatel, skupina, počítač, kontakt, sdílená složka - jejich význam, tvorba a nastavení), delegování přístupových práv v rámci A.D., dědění práv,  efektivní práva; skupiny a typy skupin z hlediska rozsahu v rámci struktury A.D. (místní, globální, univerzální), jejich působnosti a členství (se zabezpečením, distribuční), význam vnořování skupin, základní přednastavené skupiny – jejich význam; tvorba a konfigurace uživatelských účtů – jejich omezení, vlastnosti, přístupová práva (zabezpečení) – upřesňující funkce, související snap-in moduly, domovské adresáře a profily uživatelů; konzola mmc – možnosti využití, služby a jejich konfigurace, příkaz msconfig.
 
