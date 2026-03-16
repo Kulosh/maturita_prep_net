@@ -12,7 +12,7 @@ Sdílené a nesdílené přenosové medium, přístupové metody - metoda náhod
 
 Vrstevnaté modely a architektury, model ISO/OSI a architektura TCP/IP - funkce jednotlivých vrstev; paket a struktura paketu, hlavička IP paketu, rámec, segment;  pojem protokol a port, protokoly soustavy TCP/IP, význam jednotlivých protokolů na jednotlivých vrstvách, čísla portů.
 
-## [4. Přenos dat](SPS/questions/Q4.md)
+## [4. Přenos dat](/SPS/questions/Q4.md)
 
 Přenos dat - paralelní a seriový, asynchronní a synchronní přenos dat, spojovaný a nespojovaný přenos, spojovaná a nespojovaná služba v TCP/IP - realizace, přepínání paketů a okruhů, virtuální spoj, přenos dat v základním  a přeloženém pásmu, modulace, modulační  a přenosová rychlost, šířka pásma, multiplex.
 
