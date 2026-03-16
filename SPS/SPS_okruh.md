@@ -1,10 +1,10 @@
 # Maturitní témata z předmětu Správa počítačových sítí pro šk. rok 2025/2026
 
-## [1. Topologie a kabely počítačové sítě](SPS/questions/Q1)
+## [1. Topologie a kabely počítačové sítě](SPS/questions/Q1.md)
 
 Topologie sítě - druhy, srovnání; kabely sítě – metalické kabely, optická vlákna, základní parametry kabelů, použití v jednotlivých topologiích, konektory, způsoby zapojení kabelů (poznat druhy kabelů a konektorů, zapojení křížené a nekřížené kroucené dvojlinky), pojem strukturovaná kabeláž
 
-## [2. Sdílené a nesdílené přenosové médium v sítích a aktivní prvky sítě](SPS/questions/Q2)
+## [2. Sdílené a nesdílené přenosové médium v sítích a aktivní prvky sítě](SPS/questions/Q2.md)
 
 Sdílené a nesdílené přenosové medium, přístupové metody - metoda náhodného přístupu, přístupové metody v bezdrátových sítích, kolize a kolizní doména; broadcast a broadcastová doména; standardy síť hardwaru - Ethernet, kolize v Ethernetu – přístupová metoda, řešení kolizí, možnosti vyloučení kolizí v Ethernetu, omezení kolizní domény v Ethernetu, half-duplex a full-duplex v Ethernetu, standardy ethernetovských sítí, kabely a konektory v ethernetovské síti. Aktivní prvky sítě -  REPEATER, HUB, BRIDGE, SWITCH, ROUTER, GATEWAY, princip jejich funkce, souvislost s ISO-OSI a TCP/IP, možnosti použití, rozdíly v přepínání na druhé a třetí vrstvě, výhody náhrady hubu switchem v sítích Ethernet; segmentace sítě – omezení kolizní domény
 
