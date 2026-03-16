@@ -1,10 +1,10 @@
 # Maturitní témata z předmětu Správa počítačových sítí pro šk. rok 2025/2026
 
-## [[/SPS/questions/q1.md|1. Topologie a kabely počítačové sítě]]
+## [1. Topologie a kabely počítačové sítě](/SPS/questions/Q1.md)
 
 Topologie sítě - druhy, srovnání; kabely sítě – metalické kabely, optická vlákna, základní parametry kabelů, použití v jednotlivých topologiích, konektory, způsoby zapojení kabelů (poznat druhy kabelů a konektorů, zapojení křížené a nekřížené kroucené dvojlinky), pojem strukturovaná kabeláž
 
-## [[/SPS/questions/q2.md|2. Sdílené a nesdílené přenosové médium v sítích a aktivní prvky sítě]]
+## [2. Sdílené a nesdílené přenosové médium v sítích a aktivní prvky sítě](/SPS/questions/Q2.md)
 
 Sdílené a nesdílené přenosové medium, přístupové metody - metoda náhodného přístupu, přístupové metody v bezdrátových sítích, kolize a kolizní doména; broadcast a broadcastová doména; standardy síť hardwaru - Ethernet, kolize v Ethernetu – přístupová metoda, řešení kolizí, možnosti vyloučení kolizí v Ethernetu, omezení kolizní domény v Ethernetu, half-duplex a full-duplex v Ethernetu, standardy ethernetovských sítí, kabely a konektory v ethernetovské síti. Aktivní prvky sítě -  REPEATER, HUB, BRIDGE, SWITCH, ROUTER, GATEWAY, princip jejich funkce, souvislost s ISO-OSI a TCP/IP, možnosti použití, rozdíly v přepínání na druhé a třetí vrstvě, výhody náhrady hubu switchem v sítích Ethernet; segmentace sítě – omezení kolizní domény
 
@@ -12,7 +12,7 @@ Sdílené a nesdílené přenosové medium, přístupové metody - metoda náhod
 
 Vrstevnaté modely a architektury, model ISO/OSI a architektura TCP/IP - funkce jednotlivých vrstev; paket a struktura paketu, hlavička IP paketu, rámec, segment;  pojem protokol a port, protokoly soustavy TCP/IP, význam jednotlivých protokolů na jednotlivých vrstvách, čísla portů.
 
-## [4. Přenos dat](/SPS/questions/q4)
+## [4. Přenos dat](/SPS/questions/Q4.md)
 
 Přenos dat - paralelní a seriový, asynchronní a synchronní přenos dat, spojovaný a nespojovaný přenos, spojovaná a nespojovaná služba v TCP/IP - realizace, přepínání paketů a okruhů, virtuální spoj, přenos dat v základním  a přeloženém pásmu, modulace, modulační  a přenosová rychlost, šířka pásma, multiplex.
 
@@ -84,7 +84,7 @@ Pojem ACL – výhody proti běžnému nastavení práv, nastavení ACL (setfacl
 
 Fyzický disk, diskové oblasti, pojmy Master Boot Record , Partition Table, Boot Record rozdělení fyzického disku a konfigurace diskových oblastí (fdisk, sfdisk, parted), přehled a srovnání souborových systémů (ext 2,3,4 ), tvorba, konfigurace a správa souborového systému ( mkfs, mount, umount, dumpe2fs, fsck, badblocks, tune2fs, df, debugfs  ...), základní konfigurační soubory (fstab, mtab)
 
-## [[Q22|22. Diskové pole RAID v systému Linux]]
+## [22. Diskové pole RAID v systému Linux](/SPS/questions/q22.md)
 
 Pojem diskové pole, úrovně diskového pole RAID0, RAID1, RAID5 – odlišnosti z hlediska využití, potřebný počet disků pro realizaci jednotlivých úrovní, vytvoření diskového pole (mdadm), uložení konfigurace disk. pole, vytvoření souborového systému či svazků na diskovém poli, rozšíření diskového pole a následné rozšíření svazku a souborového systému (resize2fs).
 
