@@ -47,7 +47,7 @@ Třídy, metody, vlastnosti, konstruktory. Abstrakce (abstraktní třídy/metody
 ### [12. GUI – Windows Forms](/Praktická/Q12.md)
 Přehledové a editační formuláře, DialogResult, validace dat, komponenty (TextBox, Label, Button, ListBox, ComboBox), události (Click, Load).
 
-### 13. Práce s daty
+### [13. Práce s daty](/Praktická/Q13.md)
 Práce se soubory (čtení, zápis, výjimky), práce s databází (MSSQL/MySQL), zobrazování v gridech (DataGrid), oddělení dat od vizuálu (DataTable).
 
 ### 14. GDI+ grafika
