@@ -41,7 +41,7 @@ Instalace (CLI/GUI), správa uživatelů, diskový a souborový systém, konfigu
 ### [10. Základy programování](/Praktická/Q10.md)
 Datové struktury a typy, konverze, vstup/výstup, procedury a funkce (parametry), operátory, rozhodovací konstrukce, cykly (for, while, foreach), pole, řetězce, dynamické struktury.
 
-### 11. Objektově orientované programování (OOP)
+### [11. Objektově orientované programování (OOP)](/Praktická/Q11.md)
 Třídy, metody, vlastnosti, konstruktory. Abstrakce (abstraktní třídy/metody), rozhraní (interface), zapouzdření (modifikátory přístupu), dědičnost, polymorfismus. Kolekce (přidávání, procházení, mazání).
 
 ### 12. GUI – Windows Forms
