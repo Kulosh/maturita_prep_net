@@ -44,7 +44,7 @@ Datové struktury a typy, konverze, vstup/výstup, procedury a funkce (parametry
 ### [11. Objektově orientované programování (OOP)](/Praktická/Q11.md)
 Třídy, metody, vlastnosti, konstruktory. Abstrakce (abstraktní třídy/metody), rozhraní (interface), zapouzdření (modifikátory přístupu), dědičnost, polymorfismus. Kolekce (přidávání, procházení, mazání).
 
-### 12. GUI – Windows Forms
+### [12. GUI – Windows Forms](/Praktická/Q12.md)
 Přehledové a editační formuláře, DialogResult, validace dat, komponenty (TextBox, Label, Button, ListBox, ComboBox), události (Click, Load).
 
 ### 13. Práce s daty
