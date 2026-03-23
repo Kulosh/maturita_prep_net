@@ -32,7 +32,7 @@ Vysvětlení pojmů fyzická struktura Active Directory, objekt lokality, replik
 
 Logická struktura A.D., uzlové a koncové objekty, doména, kontejner a organizační jednotka (útvar) - rozdíly, lokalita (síť), základní koncové objekty (uživatel, skupina, počítač, kontakt, sdílená složka - jejich význam, tvorba a nastavení), delegování přístupových práv v rámci A.D., dědění práv,  efektivní práva; skupiny a typy skupin z hlediska rozsahu v rámci struktury A.D. (místní, globální, univerzální), jejich působnosti a členství (se zabezpečením, distribuční), význam vnořování skupin, základní přednastavené skupiny – jejich význam; tvorba a konfigurace uživatelských účtů – jejich omezení, vlastnosti, přístupová práva (zabezpečení) – upřesňující funkce, související snap-in moduly, domovské adresáře a profily uživatelů; konzola mmc – možnosti využití, služby a jejich konfigurace, příkaz msconfig.
 
-## 9. Zásady skupin v A.D.
+## [9. Zásady skupin v A.D.](/SPS/questions/Q9.md)
 
 Význam zásad skupin, druhy zásad skupin – místní a GPO (rozdíly); objekty, na kterých lze nastavovat zásady skupin (doména, OU, lokalita) – jejich význam, pravidla pro vytváření GPO; objekty, na které se vztahují nastavené zásady GPO ( uživatel, počítač ) - jejich konfigurace, vztah mezi jednotlivými typy GPO, význam dědění zásad, konfigurace zásad hesel a omezení uživatelských účtů, zásady zabezpečení, zásady aplikací, HW i SW, zásady profilů, šablony pro správu; příkaz gpupdate.
 
