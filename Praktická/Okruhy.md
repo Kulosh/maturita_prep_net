@@ -50,7 +50,7 @@ Přehledové a editační formuláře, DialogResult, validace dat, komponenty (T
 ### [13. Práce s daty](/Praktická/Q13.md)
 Práce se soubory (čtení, zápis, výjimky), práce s databází (MSSQL/MySQL), zobrazování v gridech (DataGrid), oddělení dat od vizuálu (DataTable).
 
-### 14. GDI+ grafika
+### [14. GDI+ grafika](/Praktická/Q14.md)
 Kreslení základních objektů (úsečka, elipsa, obdélník, text), transformace souřadnic, zobrazování matematických funkcí, objekt Graphics, práce s plátnem.
 
 ### 15. Tvorba webu v .NET
