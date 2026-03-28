@@ -72,3 +72,38 @@ Konečný vzhled tabulky určuje pořadí v seznamu pravidel.
 
 **Důležité k pochopení:**
 Ve **Správci pravidel** mají pravidla umístěná výše přednost. Pokud buňka splňuje více podmínek najednou, Excel aplikuje formát z toho pravidla, které je v seznamu prioritnější (výše). To je důvod, proč zelená výplň u maxima může přebít předchozí nastavení.
+
+---
+
+# Cvičení 3: Podmíněné formátování s kritériem vzorec
+
+![[PNNV_E01_12.png]]
+
+> [!danger] Předpříprava
+> V origo souboru má buňka `C19` špatný vzorec.
+> Do buňky `C19` vlož vzorec: `=C16*C17+C18`
+
+## Zadání
+Aplikuj podmíněné formátování pomocí vzorce na vstupní buňky. Pokud výsledek výpočtu překročí hodnotu 100, buňky se musí automaticky ohraničit.
+
+## Postup
+Označ vstupní data a zvol: **Podmíněné formátování -> Nové pravidlo... -> Určit buňky k formátování pomocí vzorce**.
+
+![[PNNV_E01_13.png]]
+
+Do pole pro vzorec zadej podmínku pro výpočet s porovnáním:
+```excel
+=$C$16*$C$17+$C$18>100
+```
+V nastavení **Formát...** zvol kartu **Ohraničení** a nastav vnější linky.
+
+![[PNNV_E01_14.png]]
+
+## Výsledek
+
+![[PNNV_E01_15.png]]
+
+![[PNNV_E01_16.png]]
+
+
+
