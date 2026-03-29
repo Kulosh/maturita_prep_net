@@ -32,7 +32,7 @@ Vysvětlení pojmů fyzická struktura Active Directory, objekt lokality, replik
 
 Logická struktura A.D., uzlové a koncové objekty, doména, kontejner a organizační jednotka (útvar) - rozdíly, lokalita (síť), základní koncové objekty (uživatel, skupina, počítač, kontakt, sdílená složka - jejich význam, tvorba a nastavení), delegování přístupových práv v rámci A.D., dědění práv,  efektivní práva; skupiny a typy skupin z hlediska rozsahu v rámci struktury A.D. (místní, globální, univerzální), jejich působnosti a členství (se zabezpečením, distribuční), význam vnořování skupin, základní přednastavené skupiny – jejich význam; tvorba a konfigurace uživatelských účtů – jejich omezení, vlastnosti, přístupová práva (zabezpečení) – upřesňující funkce, související snap-in moduly, domovské adresáře a profily uživatelů; konzola mmc – možnosti využití, služby a jejich konfigurace, příkaz msconfig.
 
-## 9. Zásady skupin v A.D.
+## [9. Zásady skupin v A.D.](/SPS/questions/Q9.md)
 
 Význam zásad skupin, druhy zásad skupin – místní a GPO (rozdíly); objekty, na kterých lze nastavovat zásady skupin (doména, OU, lokalita) – jejich význam, pravidla pro vytváření GPO; objekty, na které se vztahují nastavené zásady GPO ( uživatel, počítač ) - jejich konfigurace, vztah mezi jednotlivými typy GPO, význam dědění zásad, konfigurace zásad hesel a omezení uživatelských účtů, zásady zabezpečení, zásady aplikací, HW i SW, zásady profilů, šablony pro správu; příkaz gpupdate.
 
@@ -84,7 +84,7 @@ Pojem ACL – výhody proti běžnému nastavení práv, nastavení ACL (setfacl
 
 Fyzický disk, diskové oblasti, pojmy Master Boot Record , Partition Table, Boot Record rozdělení fyzického disku a konfigurace diskových oblastí (fdisk, sfdisk, parted), přehled a srovnání souborových systémů (ext 2,3,4 ), tvorba, konfigurace a správa souborového systému ( mkfs, mount, umount, dumpe2fs, fsck, badblocks, tune2fs, df, debugfs  ...), základní konfigurační soubory (fstab, mtab)
 
-## [22. Diskové pole RAID v systému Linux](/SPS/questions/q22.md)
+## [22. Diskové pole RAID v systému Linux](/SPS/questions/Q22.md)
 
 Pojem diskové pole, úrovně diskového pole RAID0, RAID1, RAID5 – odlišnosti z hlediska využití, potřebný počet disků pro realizaci jednotlivých úrovní, vytvoření diskového pole (mdadm), uložení konfigurace disk. pole, vytvoření souborového systému či svazků na diskovém poli, rozšíření diskového pole a následné rozšíření svazku a souborového systému (resize2fs).
 
