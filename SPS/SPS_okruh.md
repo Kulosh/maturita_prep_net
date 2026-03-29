@@ -16,11 +16,11 @@ Vrstevnaté modely a architektury, model ISO/OSI a architektura TCP/IP - funkce 
 
 Přenos dat - paralelní a seriový, asynchronní a synchronní přenos dat, spojovaný a nespojovaný přenos, spojovaná a nespojovaná služba v TCP/IP - realizace, přepínání paketů a okruhů, virtuální spoj, přenos dat v základním  a přeloženém pásmu, modulace, modulační  a přenosová rychlost, šířka pásma, multiplex.
 
-## [5. Adresace v sítích architektury TCP/IP ](/SPS/questions/Q5)
+## [5. Adresace v sítích architektury TCP/IP ](/SPS/questions/Q5.md)
 
 IP adresa - třídy IP adres, struktura IP adresy - adresa sítě a uzlu, adresa broadacstu, maska sítě, způsoby zápisu masky, variabilní a konstantní maska, dělení IP sítě na podsítě, výpočet podsítí, zjištění informací o síťovém prostředí v systému Windows a Linux; konfigurace síťového prostředí v systému Windows a Linux;
 
-## [6. Základní pojmy Active Directory](/SPS/questions/Q6)
+## [6. Základní pojmy Active Directory](/SPS/questions/Q6.md)
 
 Active Directory, její logická a fyzická struktura, doména, doménový řadič, členský server, doménový strom, doménový les (struktura), vztahy mezi doménami (jednocestné, dvoucestné, tranzitivní), instalace a odinstalace Active Directory, režimy provozu domény – rozdíly, význam; USN, náhrobek, schéma Active Directory, globální katalog – vysvětlení pojmů.
 
@@ -68,7 +68,7 @@ Základní a dynamické disky, typy svazků dynamických disků – rozdíly a v
 
 Certifikační server, certifikační autorita, certifikáty, šifrování, druhy šifrování, symetrické a asymetrické šifrování, privátní a veřejný klíč, digitální a elektronický podpis; bezpečnostní cíle šifrování dat ( zabezpečení při přenosu dat, neodmítnutelnost odpovědnosti, zajištění integrity dat ), hash funkce a hash hodnota, časová razítka, instalace a konfigurace certifikační autority v prostředí Windows. Vystavení certifikátů  CA v prostředí Windows pro službu IIS. Vystavení osobních certifikátů uživatelů CA v prostředí Windows.
 
-## [18. Procesy a spouštění programů v systému Linux](/SPS/questions/Q18)
+## [18. Procesy a spouštění programů v systému Linux](/SPS/questions/Q18.md)
 
 Spouštění programů na popředí a na pozadí; pojem proces, ukončení a pozastavení procesu na popředí a na pozadí (fg, bg, & , sekvenční a konkurenční spouštění úloh, rodičovský proces a potomek, skupina procesů a procesy patřící do jedné session,identifikace procesů (číslo úlohy, PID, PPID, PGID, SID), zabíjení procesů (kill ) a signály ( TERM, KILL, STOP, CONT, HUP ), informace o procesech (jobs, ps, top), priorita procesů (nice, renice), plánované spouštění úloh (at, cron, anacron - konfigurace, konfigurační soubory); význam souborového systému /proc, spouštění procesů pod jinou identitou (su, sudo).
 
@@ -76,7 +76,7 @@ Spouštění programů na popředí a na pozadí; pojem proces, ukončení a poz
 
 Vytvoření a konfigurace uživatelských účtů a skupin (useradd, groupadd, usermod, groupmod, userdel, groupdel, chage, groups, id, last, passwd, users, who, whoami), konfigurační soubory uživatelských účtů (useradd, login.defs, passwd,  shadow, group) a význam jednotlivých položek v těchto souborech.
 
-## [20. ACL a diskové kvóty](/SPS/questions/Q20)
+## [20. ACL a diskové kvóty](/SPS/questions/Q20.md)
 
 Pojem ACL – výhody proti běžnému nastavení práv, nastavení ACL (setfacl, getfacl), konfigurační soubory, defaultní ACL, kopírování, zálohování ACL. Diskové kvóty v Linuxu, kvóty na uživatele, kvóty na skupinu; aktivace kvótování (quotacheck, quotaon, quotaoff ), konfigurace kvót (edquota, setquota, quotastats); konfigurační soubory kvót.
 
@@ -112,10 +112,10 @@ Možnosti instalce aplikací (zdrojové kódy, knihovny, kompilace, instalační
 
 DHCP služba v systému Linux - instalace a konfigurace DHCP serveru, klienta, dynamické  a statické přidělování IP dle MAC, nastavení ddns; DHCP služba v různých, vzájemně propojených sítích.
 
-## [29. Služba webového serveru Apache v systému Linux](/SPS/questions/Q29)
+## [29. Služba webového serveru Apache v systému Linux](/SPS/questions/Q29.md)
 
 Web server Apache ( globální nastavení, nastavení defaultního serveru a konfigurace virtuálních serverů na https protokolu, virtuální hosting, Open SSL).
 
-## [30. Služba FTP serveru v systému Linux](/SPS/questions/Q30)
+## [30. Služba FTP serveru v systému Linux](/SPS/questions/Q30.md)
 
 Instalace a konfigurace síťových služeb ftp, pasivní a aktivní ftp server; anonymní ftp server, osobní ftp servery uživatelů - zabezpečený přístup, zabezpečený přenos pomocí SSL mezi ftp serverem a ftp klientem) a ssh (instalace a konfigurace ssh, ověřování přístupu pomocí hesel či osobních certifikátů uživatelů).
