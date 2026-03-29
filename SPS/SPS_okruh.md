@@ -84,7 +84,7 @@ Pojem ACL – výhody proti běžnému nastavení práv, nastavení ACL (setfacl
 
 Fyzický disk, diskové oblasti, pojmy Master Boot Record , Partition Table, Boot Record rozdělení fyzického disku a konfigurace diskových oblastí (fdisk, sfdisk, parted), přehled a srovnání souborových systémů (ext 2,3,4 ), tvorba, konfigurace a správa souborového systému ( mkfs, mount, umount, dumpe2fs, fsck, badblocks, tune2fs, df, debugfs  ...), základní konfigurační soubory (fstab, mtab)
 
-## [22. Diskové pole RAID v systému Linux](/SPS/questions/q22.md)
+## [22. Diskové pole RAID v systému Linux](/SPS/questions/Q22.md)
 
 Pojem diskové pole, úrovně diskového pole RAID0, RAID1, RAID5 – odlišnosti z hlediska využití, potřebný počet disků pro realizaci jednotlivých úrovní, vytvoření diskového pole (mdadm), uložení konfigurace disk. pole, vytvoření souborového systému či svazků na diskovém poli, rozšíření diskového pole a následné rozšíření svazku a souborového systému (resize2fs).
 
