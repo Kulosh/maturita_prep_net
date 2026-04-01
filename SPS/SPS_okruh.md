@@ -80,7 +80,7 @@ Vytvoření a konfigurace uživatelských účtů a skupin (useradd, groupadd, u
 
 Pojem ACL – výhody proti běžnému nastavení práv, nastavení ACL (setfacl, getfacl), konfigurační soubory, defaultní ACL, kopírování, zálohování ACL. Diskové kvóty v Linuxu, kvóty na uživatele, kvóty na skupinu; aktivace kvótování (quotacheck, quotaon, quotaoff ), konfigurace kvót (edquota, setquota, quotastats); konfigurační soubory kvót.
 
-## 21. Diskový systém LINUXu
+## [21. Diskový systém LINUXu](/SPS/questions/Q21.md)
 
 Fyzický disk, diskové oblasti, pojmy Master Boot Record , Partition Table, Boot Record rozdělení fyzického disku a konfigurace diskových oblastí (fdisk, sfdisk, parted), přehled a srovnání souborových systémů (ext 2,3,4 ), tvorba, konfigurace a správa souborového systému ( mkfs, mount, umount, dumpe2fs, fsck, badblocks, tune2fs, df, debugfs  ...), základní konfigurační soubory (fstab, mtab)
 
