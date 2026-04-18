@@ -104,7 +104,7 @@ Základní konfigurace síťového rozhraní ( nmcli, ifconfig, ip, route, konfi
 
 Přístupová práva a atributy k souboru – vysvětlit, manipulace s právy a atributy (číselné vyjádření, zobrazení práv a atributů, příkazy ls, chmod, chgrp, chown), přesměrování vstupu a výstupu – k čemu slouží, příklady využití, roura a pojmenovaná roura – k čemu slouží, příklady využití; příkazy man, cd, ls, cat, vi,  ln, mkdir, rmdir, cp, rm, mv, mkfifo, find, grep, tar, touch
 
-## 27. Instalace a odinstalace aplikací v systému Linux
+## [27. Instalace a odinstalace aplikací v systému Linux](/SPS/questions/Q27.md)
 
 Možnosti instalce aplikací (zdrojové kódy, knihovny, kompilace, instalační balíčky), balíčkovací systém dnf (repozitáře - konfigurace, konfigurační soubory práce s dnf), výhody balíčkovacích systémů; rpm balíčky, řešení závislostí, vlastní příkaz rpm. Instalace ze zdrojových kódů – výhody a nevýhody kompilace - srovnání s balíčkovacím systémem. ( ldd, ./configure, make, makeinstall, gcc ).
 
