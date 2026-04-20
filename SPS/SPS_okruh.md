@@ -88,7 +88,7 @@ Fyzický disk, diskové oblasti, pojmy Master Boot Record , Partition Table, Boo
 
 Pojem diskové pole, úrovně diskového pole RAID0, RAID1, RAID5 – odlišnosti z hlediska využití, potřebný počet disků pro realizaci jednotlivých úrovní, vytvoření diskového pole (mdadm), uložení konfigurace disk. pole, vytvoření souborového systému či svazků na diskovém poli, rozšíření diskového pole a následné rozšíření svazku a souborového systému (resize2fs).
 
-## 23. Svazky (LVM) v systému Linux
+## [23. Svazky (LVM) v systému Linux](/SPS/questions/Q23.md)
 
 Pojem svazek, pojmy physical volume, volume group, logical volume, výhody proti běžnému logickému disku, vytvoření svazku, rozšíření svazku, odstranění svazku, svazky a disková pole, konfigurace svazku (pvs, pvcreate, pvremove, pvdisplay, lvs, lvcreate, lvremove, lvdisplay, vgs, vgcreate, vgremove, vgdisplay, vgchange, pvextend, lvextend, resize2fs, lvreduce, vgreduce)
 
