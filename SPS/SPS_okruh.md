@@ -36,7 +36,7 @@ Logická struktura A.D., uzlové a koncové objekty, doména, kontejner a organi
 
 Význam zásad skupin, druhy zásad skupin – místní a GPO (rozdíly); objekty, na kterých lze nastavovat zásady skupin (doména, OU, lokalita) – jejich význam, pravidla pro vytváření GPO; objekty, na které se vztahují nastavené zásady GPO ( uživatel, počítač ) - jejich konfigurace, vztah mezi jednotlivými typy GPO, význam dědění zásad, konfigurace zásad hesel a omezení uživatelských účtů, zásady zabezpečení, zásady aplikací, HW i SW, zásady profilů, šablony pro správu; příkaz gpupdate.
 
-## 10. Práva v Active Directory a v souborovém systému NTFS
+## [10. Práva v Active Directory a v souborovém systému NTFS](/SPS/questions/Q10.md)
 
 Delegování přístupových práv v rámci A.D., význam jednotlivých práv, dědění práv, efektivní práva, konfigurace práv v A.D., NTFS - přístupová práva k souborovému systému, význam jednotlivých práv,  možnosti získání práv k souborovému systému (uživ. účet, skupina, uzlový objekt, dědění, potlačení dědičnosti, efektivní práva), delegování práv k souborovému systému, práva k domovskému adresáři uživatele, sdílená složka a práva ke sdílené složce; vytvoření a konfigurace domovského adresáře uživatelům v Active Directory.
 
