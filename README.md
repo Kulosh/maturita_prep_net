@@ -17,20 +17,8 @@ Je doporučeno používat buď
 
 ## Main Contributors
 
-<div>
-	<a href="https://github.com/Kulosh">
-		<img src="https://avatars.githubusercontent.com/u/135162960" style="height: 48px; border-radius: 50%;">
-	</a>
-	<a href="https://github.com/Plodik-Marek">
-		<img src="https://avatars.githubusercontent.com/u/231496215" style="height: 48px; border-radius: 50%;">
-	</a>
-	<a href="https://github.com/KikiZC">
-		<img src="https://avatars.githubusercontent.com/u/101710730" style="height: 48px; border-radius: 50%;">
-	</a>
-	<a href="https://github.com/Cyberft-pdf">
-		<img src="https://avatars.githubusercontent.com/u/80000156" style="height: 48px; border-radius: 50%;">
-	</a>
-	<a href="https://github.com/Housanoss">
-		<img src="https://avatars.githubusercontent.com/u/168738750" style="height: 48px; border-radius: 50%;">
-	</a>
-</div>
+[![](https://wsrv.nl/?url=avatars.githubusercontent.com/u/135162960&w=48&h=48&fit=cover&mask=circle)](https://github.com/Kulosh)
+[![](https://wsrv.nl/?url=avatars.githubusercontent.com/u/231496215&w=48&h=48&fit=cover&mask=circle)](https://github.com/Plodik-Marek)
+[![](https://wsrv.nl/?url=avatars.githubusercontent.com/u/101710730&w=48&h=48&fit=cover&mask=circle)](https://github.com/KikiZC)
+[![](https://wsrv.nl/?url=avatars.githubusercontent.com/u/80000156&w=48&h=48&fit=cover&mask=circle)](https://github.com/Cyberft-pdf)
+[![](https://wsrv.nl/?url=avatars.githubusercontent.com/u/168738750&w=48&h=48&fit=cover&mask=circle)](https://github.com/Housanoss)
