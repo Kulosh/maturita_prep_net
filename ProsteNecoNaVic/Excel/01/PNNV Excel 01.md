@@ -1,7 +1,7 @@
 # Cvičení 1: Bankovní úvěr
 Cílem je spočítat výslednou částku (jistinu i s úrokem) pro různé kombinace vkladů a sazeb.
 
-![[PNNV_E01_01.png]]
+![PNNV_E01_01](PNNV_E01_01.png)
 
 ## Zadání
 Vytvořte vzorec pro výpočet výsledné částky po přičtení úroku.
@@ -19,7 +19,7 @@ Do buňky `D5` zadej vzorec:
 ```
 Vzorec pak stačí roztáhnout do celého sloupce a následně do všech řádků tabulky.
 
-![[PNNV_E01_02.png]]
+![PNNV_E01_02](PNNV_E01_02.png)
 
 ## Proč to takhle funguje (Fixace buněk)
 Klíčem je správné použití dolarů (`$`), aby se odkazy při roztahování neposunuly tam, kam nemají:
@@ -33,7 +33,7 @@ Klíčem je správné použití dolarů (`$`), aby se odkazy při roztahování 
 # Cvičení 2: Podmíněné formátování
 V tomto cvičení nastavíme automatické zvýrazňování buněk podle jejich hodnot.
 
-![[PNNV_E01_03.png]]
+![PNNV_E01_03](PNNV_E01_03.png)
 
 ## Zadání
 Aplikujte pravidla podmíněného formátování podle těchto kritérií:
@@ -47,28 +47,28 @@ Aplikujte pravidla podmíněného formátování podle těchto kritérií:
 Označ data a zvol: **Podmíněné formátování -> Pravidla zvýraznění buněk -> Mezi...**
 Místo pevných hodnot klikni na buňky s limity. V nastavení formátu zvol červené písmo.
 
-![[PNNV_E01_04.png]]
-![[PNNV_E01_05.png]]
+![PNNV_E01_04](PNNV_E01_04.png)
+![PNNV_E01_05](PNNV_E01_05.png)
 
 ### 2. Absolutní extrémy (Min/Max)
 Použij: **Pravidla pro nejvyšší a nejnižší hodnoty -> Prvních 10 položek...**
 V dialogu změň 10 na **1**, aby se pravidlo týkalo jen absolutního maxima (nebo minima). Nastav barvy podle zadání.
 
-![[PNNV_E01_06.png]]
-![[PNNV_E01_07.png]]
-![[PNNV_E01_08.png]]
+![PNNV_E01_06](PNNV_E01_06.png)
+![PNNV_E01_07](PNNV_E01_07.png)
+![PNNV_E01_08](PNNV_E01_08.png)
 
 ### 3. Nadprůměr a správa priorit
 Zvol: **Pravidla pro nejvyšší a nejnižší hodnoty -> Nad průměrem...** a nastav zelené písmo.
 Nakonec přidej další pravidlo pro **Maximum** se zelenou výplní.
 
-![[PNNV_E01_09.png]]
-![[PNNV_E01_10.png]]
+![PNNV_E01_09](PNNV_E01_09.png)
+![PNNV_E01_10](PNNV_E01_10.png)
 
 ## Výsledek a hierarchie pravidel
 Konečný vzhled tabulky určuje pořadí v seznamu pravidel.
 
-![[PNNV_E01_11.png]]
+![PNNV_E01_11](PNNV_E01_11.png)
 
 **Důležité k pochopení:**
 Ve **Správci pravidel** mají pravidla umístěná výše přednost. Pokud buňka splňuje více podmínek najednou, Excel aplikuje formát z toho pravidla, které je v seznamu prioritnější (výše). To je důvod, proč zelená výplň u maxima může přebít předchozí nastavení.
@@ -77,7 +77,7 @@ Ve **Správci pravidel** mají pravidla umístěná výše přednost. Pokud buň
 
 # Cvičení 3: Podmíněné formátování s kritériem vzorec
 
-![[PNNV_E01_12.png]]
+![PNNV_E01_12](PNNV_E01_12.png)
 
 > [!danger] Předpříprava
 > V origo souboru má buňka `C19` špatný vzorec.
@@ -89,7 +89,7 @@ Aplikuj podmíněné formátování pomocí vzorce na vstupní buňky. Pokud vý
 ## Postup
 Označ vstupní data a zvol: **Podmíněné formátování -> Nové pravidlo... -> Určit buňky k formátování pomocí vzorce**.
 
-![[PNNV_E01_13.png]]
+![PNNV_E01_13](PNNV_E01_13.png)
 
 Do pole pro vzorec zadej podmínku pro výpočet s porovnáním:
 ```excel
@@ -97,13 +97,13 @@ Do pole pro vzorec zadej podmínku pro výpočet s porovnáním:
 ```
 V nastavení **Formát...** zvol kartu **Ohraničení** a nastav vnější linky.
 
-![[PNNV_E01_14.png]]
+![PNNV_E01_14](PNNV_E01_14.png)
 
 ## Výsledek
 
-![[PNNV_E01_15.png]]
+![PNNV_E01_15](PNNV_E01_15.png)
 
-![[PNNV_E01_16.png]]
+![PNNV_E01_16](PNNV_E01_16.png)
 
 
 
