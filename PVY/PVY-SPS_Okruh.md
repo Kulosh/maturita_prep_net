@@ -32,11 +32,11 @@ Význam a použití akčních dotazů v MS Access, aktualizační dotazy (UPDATE
 
 Co je sestava v MS Access a její jednotlivé části (záhlaví sestavy, záhlaví stránky, záhlaví skupiny, podrobnosti, zápatí skupiny a zápatí sestavy), možnosti zobrazení a úprav sestavy, vlastnosti sestavy, vlastnosti jednotlivých ovládacích prvků sestavy, použití nástrojů řazení a seskupování, tvorba souhrnů a agregací.
 
-# [9.    MS Access – tvorba formulářů](/PVY/Access/Q9.md)
+# [9. MS Access – tvorba formulářů](/PVY/MS/Access/Q9.md)
 
 Co je formulář v MS Access a k čemu slouží, samostatný vs. nekonečný formulář (zobrazení více záznamů současně) a podformulář (formulář vložený do jiného formuláře pro zobrazení souvisejících dat) a příklady jejich použití. Vytvoření formuláře pomocí nástrojů MS Access, vlastnosti formuláře, vlastnosti ovládacích prvků formuláře (textové pole, seznam, tlačítko), do formulářů vkládat kódy maker prostřednictvím příkazových tlačítek pro automatizaci úloh či spuštění akcí, možnost převedení maker do VBA.
 
-# 10. MS Access, MS Excel – exporty a importy dat
+# [10. MS Access, MS Excel – exporty a importy dat](/PVY/MS/Access/Q10.md)
 
 Kam lze data z Accessu exportovat (např. Excel, textové soubory, CSV, XML) a jakým způsobem, a odkud lze data do Accessu importovat (např. Excel, CSV, jiné databáze, textové soubory) a jak, požadavky na strukturu textového souboru pro úspěšný import: typy souborů (XLSX, CSV, XML), oddělovače, názvy polí, datové typy.
 
@@ -84,11 +84,11 @@ HTML tabulky a jejich struktura, možnosti stylování tabulek v CSS – rámeč
 
 Technologie pro tvorbu webových stránek – HTML, CSS, JavaScript, jejich role a propojení. Struktura HTML dokumentu, základní elementy a jejich atributy. Sémantické elementy (header, main, footer, nav, article, section, aside aj.) a jejich význam. Rozdíly mezi blokovými a inline elementy. Nástroje pro vývoj webových stránek – textové editory, IDE, webové prohlížeče a jejich vývojářské nástroje (DevTools), inspektor prvků, konzole, síťová komunikace, ladění stylů a skriptů. Základní pojmy webové tvorby. Struktura URL adresy.
 
-# [22.  HTML Formuláře](/PVY/WEB/Q22.md)
+# [22. HTML Formuláře](/PVY/WEB/Q22.md)
 
 Význam a použití formulářů na webu. Element `<form>` a jeho základní atributy (action, method, enctype aj.). Formulářové prvky – `<input>` a jeho různé typy (text, password, email, number, checkbox, radio, file, date, color, range aj.), `<select>`, `<option>`, `<textarea>`, `<button>`, `<label>`, `<fieldset>`, `<legend>` a další. Atributy formulářových polí (name, value, placeholder, required, disabled, readonly, maxlength aj.). HTML validace formulářů. Propojení a zpracování formulářů JavaScriptem – čtení a nastavení hodnot, zpracování dat, události formulářů, validace na klientské straně. Odesílání dat metodami GET a POST.
 
-# [23.  CSS – selektory, responsivita](/PVY/WEB/Q23.md)
+# [23. CSS – selektory, responsivita](/PVY/WEB/Q23.md)
 
 Selektory (různé typy – id, class, element, atribut…) a kombinace selektorů, pseudotřídy a pseudoelementy. Priorita CSS stylů v HTML dokumentu. Stylování textů, pozadí prvků, margin a padding.
 
