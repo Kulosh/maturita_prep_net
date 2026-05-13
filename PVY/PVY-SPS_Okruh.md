@@ -110,9 +110,9 @@ Události v JavaScriptu – význam a využití. Typy událostí (kliknutí, poh
 
 Document Object Model (DOM), jeho význam a struktura. Stromová reprezentace HTML dokumentu, uzly a jejich typy. Přístup k prvkům pomocí různých metod, práce s kolekcemi prvků a cykly. Vytváření nových elementů a jejich vkládání do stránky různými způsoby (append, prepend, before, after, appendChild aj.). Odstraňování prvků (removeChild, remove a další). Úprava obsahu prvků – innerHTML, innerText, textContent a jiné. Práce s atributy obecně – získávání, nastavování, mazání, práce s datovými atributy. Traversování mezi elementy – rodiče, děti, sourozenci, počítání potomků a další způsoby pohybu ve stromu dokumentu. Propojení DOM s událostmi a dynamické úpravy obsahu stránky.
 
-# 28.  Časování skriptů
+# [28. Časování skriptů](/PVY/WEB/Q28.md)
 
-Časovače v JavaScriptu, princip a význam. Funkce setTi\meout a setInterval, rozdíly mezi nimi a jejich praktické využití. Zrušení časovačů pomocí clearTimeout a clearInterval. Využití časovačů pro opakované nebo odložené provádění kódu, periodické aktualizace obsahu stránky, animace, odpočítávání, dynamické prvky a jiné. Možnosti kombinace časovačů s událostmi a dalšími částmi aplikace.
+Časovače v JavaScriptu, princip a význam. Funkce setTimeout a setInterval, rozdíly mezi nimi a jejich praktické využití. Zrušení časovačů pomocí clearTimeout a clearInterval. Využití časovačů pro opakované nebo odložené provádění kódu, periodické aktualizace obsahu stránky, animace, odpočítávání, dynamické prvky a jiné. Možnosti kombinace časovačů s událostmi a dalšími částmi aplikace.
 
 # 29.  AJAX (fetch)
 
