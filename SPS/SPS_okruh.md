@@ -72,7 +72,7 @@ Certifikační server, certifikační autorita, certifikáty, šifrování, druh
 
 Spouštění programů na popředí a na pozadí; pojem proces, ukončení a pozastavení procesu na popředí a na pozadí (fg, bg, & , sekvenční a konkurenční spouštění úloh, rodičovský proces a potomek, skupina procesů a procesy patřící do jedné session,identifikace procesů (číslo úlohy, PID, PPID, PGID, SID), zabíjení procesů (kill ) a signály ( TERM, KILL, STOP, CONT, HUP ), informace o procesech (jobs, ps, top), priorita procesů (nice, renice), plánované spouštění úloh (at, cron, anacron - konfigurace, konfigurační soubory); význam souborového systému /proc, spouštění procesů pod jinou identitou (su, sudo).
 
-## 19. Uživatelské účty v systému Linux
+## [19. Uživatelské účty v systému Linux](/SPS/questions/Q19.md)
 
 Vytvoření a konfigurace uživatelských účtů a skupin (useradd, groupadd, usermod, groupmod, userdel, groupdel, chage, groups, id, last, passwd, users, who, whoami), konfigurační soubory uživatelských účtů (useradd, login.defs, passwd,  shadow, group) a význam jednotlivých položek v těchto souborech.
 
