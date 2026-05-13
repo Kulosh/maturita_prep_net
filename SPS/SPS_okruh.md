@@ -92,7 +92,7 @@ Pojem diskové pole, úrovně diskového pole RAID0, RAID1, RAID5 – odlišnost
 
 Pojem svazek, pojmy physical volume, volume group, logical volume, výhody proti běžnému logickému disku, vytvoření svazku, rozšíření svazku, odstranění svazku, svazky a disková pole, konfigurace svazku (pvs, pvcreate, pvremove, pvdisplay, lvs, lvcreate, lvremove, lvdisplay, vgs, vgcreate, vgremove, vgdisplay, vgchange, pvextend, lvextend, resize2fs, lvreduce, vgreduce)
 
-## 24. Základy souborového systému v Linuxu
+## [24. Základy souborového systému v Linuxu](/SPS/questions/Q24.md)
 
 Soubory zařízení, diskové oblasti, tvorba a konfigurace diskových oblastí (fdisk, sfdisk, parted),  základní pojmy souborového systému (inode, superblok, datový blok, adresářový blok, journal); adresáře – struktura a význam jednotlivých adresářů, typy  souborů ( symbolický odkaz, pevný odkaz, blokové zařízení, znakové zařízení, pojmenovaná roura, adresář), atributy souborů (suid, sgid, sticky, vlastník, skupinový vlastník), základní příkazy (man, cd, ls, cat, vi,  ln, mkdir, rmdir, cp, rm, mv, mkfifo, find, grep, tar).
 
@@ -100,7 +100,7 @@ Soubory zařízení, diskové oblasti, tvorba a konfigurace diskových oblastí 
 
 Základní konfigurace síťového rozhraní ( nmcli, ifconfig, ip, route, konfigurační soubory); DNS server (konfigurační soubory DNS serveru, spouštění DNS serveru a klienta, konfigurace primárního, sekundárního, caching  a forwarding DNS serveru, konfigurace poddomény - glue záznamy).
 
-## 26. Základní operace se soubory, přístupová práva a atributy souborů
+## [26. Základní operace se soubory, přístupová práva a atributy souborů](/SPS/questions/Q26.md)
 
 Přístupová práva a atributy k souboru – vysvětlit, manipulace s právy a atributy (číselné vyjádření, zobrazení práv a atributů, příkazy ls, chmod, chgrp, chown), přesměrování vstupu a výstupu – k čemu slouží, příklady využití, roura a pojmenovaná roura – k čemu slouží, příklady využití; příkazy man, cd, ls, cat, vi,  ln, mkdir, rmdir, cp, rm, mv, mkfifo, find, grep, tar, touch
 
