@@ -102,9 +102,9 @@ CSS grid – princip, význam a využití. Základní vlastnosti pro rodiče a p
 
 CSS flex – princip, význam a využití. Jednorozměrný layout systém (hlavní a křížová osa). Vlastnosti kontejneru: display: flex, flex-direction, flex-wrap, justify-content, align-items, align-content. Vlastnosti prvků: flex-grow, flex-shrink, flex-basis, zkratka flex, order, align-self. Rozdíly mezi flex a grid, kdy použít který přístup, možnost jejich kombinace. Flex vs. grid.
 
-# 26.  JS – Práce s událostmi
+# [26. JS – Práce s událostmi](/PVY/WEB/Q26.md)
 
-Události v JavaScriptu – význam a využití. Typy událostí (kliknutí, pohyb myši, klávesnice, události okna  aj.). Způsoby přiřazení obsluhy událostí - metoda addEventListener (doporučený způsob). Objekt události (event), důležité vlastnosti (clientX, clientY, key, altKey, ctrlKey a další). Princip bubbling, stopPropagation(), preventDefault().
+Události v JavaScriptu – význam a využití. Typy událostí (kliknutí, pohyb myši, klávesnice, události okna aj.). Způsoby přiřazení obsluhy událostí - metoda addEventListener (doporučený způsob). Objekt události (event), důležité vlastnosti (clientX, clientY, key, altKey, ctrlKey a další). Princip bubbling, stopPropagation(), preventDefault().
 
 # 27. Práce s DOM
 
