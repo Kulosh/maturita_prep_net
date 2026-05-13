@@ -106,7 +106,7 @@ CSS flex – princip, význam a využití. Jednorozměrný layout systém (hlavn
 
 Události v JavaScriptu – význam a využití. Typy událostí (kliknutí, pohyb myši, klávesnice, události okna aj.). Způsoby přiřazení obsluhy událostí - metoda addEventListener (doporučený způsob). Objekt události (event), důležité vlastnosti (clientX, clientY, key, altKey, ctrlKey a další). Princip bubbling, stopPropagation(), preventDefault().
 
-# 27. Práce s DOM
+# [27. Práce s DOM](/PVY/WEB/Q27.md)
 
 Document Object Model (DOM), jeho význam a struktura. Stromová reprezentace HTML dokumentu, uzly a jejich typy. Přístup k prvkům pomocí různých metod, práce s kolekcemi prvků a cykly. Vytváření nových elementů a jejich vkládání do stránky různými způsoby (append, prepend, before, after, appendChild aj.). Odstraňování prvků (removeChild, remove a další). Úprava obsahu prvků – innerHTML, innerText, textContent a jiné. Práce s atributy obecně – získávání, nastavování, mazání, práce s datovými atributy. Traversování mezi elementy – rodiče, děti, sourozenci, počítání potomků a další způsoby pohybu ve stromu dokumentu. Propojení DOM s událostmi a dynamické úpravy obsahu stránky.
 
