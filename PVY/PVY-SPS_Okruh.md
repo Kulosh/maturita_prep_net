@@ -32,11 +32,11 @@ Význam a použití akčních dotazů v MS Access, aktualizační dotazy (UPDATE
 
 Co je sestava v MS Access a její jednotlivé části (záhlaví sestavy, záhlaví stránky, záhlaví skupiny, podrobnosti, zápatí skupiny a zápatí sestavy), možnosti zobrazení a úprav sestavy, vlastnosti sestavy, vlastnosti jednotlivých ovládacích prvků sestavy, použití nástrojů řazení a seskupování, tvorba souhrnů a agregací.
 
-# [9.    MS Access – tvorba formulářů](/PVY/Access/Q9.md)
+# [9. MS Access – tvorba formulářů](/PVY/MS/Access/Q9.md)
 
 Co je formulář v MS Access a k čemu slouží, samostatný vs. nekonečný formulář (zobrazení více záznamů současně) a podformulář (formulář vložený do jiného formuláře pro zobrazení souvisejících dat) a příklady jejich použití. Vytvoření formuláře pomocí nástrojů MS Access, vlastnosti formuláře, vlastnosti ovládacích prvků formuláře (textové pole, seznam, tlačítko), do formulářů vkládat kódy maker prostřednictvím příkazových tlačítek pro automatizaci úloh či spuštění akcí, možnost převedení maker do VBA.
 
-# 10. MS Access, MS Excel – exporty a importy dat
+# [10. MS Access, MS Excel – exporty a importy dat](/PVY/MS/Access/Q10.md)
 
 Kam lze data z Accessu exportovat (např. Excel, textové soubory, CSV, XML) a jakým způsobem, a odkud lze data do Accessu importovat (např. Excel, CSV, jiné databáze, textové soubory) a jak, požadavky na strukturu textového souboru pro úspěšný import: typy souborů (XLSX, CSV, XML), oddělovače, názvy polí, datové typy.
 
@@ -84,11 +84,11 @@ HTML tabulky a jejich struktura, možnosti stylování tabulek v CSS – rámeč
 
 Technologie pro tvorbu webových stránek – HTML, CSS, JavaScript, jejich role a propojení. Struktura HTML dokumentu, základní elementy a jejich atributy. Sémantické elementy (header, main, footer, nav, article, section, aside aj.) a jejich význam. Rozdíly mezi blokovými a inline elementy. Nástroje pro vývoj webových stránek – textové editory, IDE, webové prohlížeče a jejich vývojářské nástroje (DevTools), inspektor prvků, konzole, síťová komunikace, ladění stylů a skriptů. Základní pojmy webové tvorby. Struktura URL adresy.
 
-# [22.  HTML Formuláře](/PVY/WEB/Q22.md)
+# [22. HTML Formuláře](/PVY/WEB/Q22.md)
 
 Význam a použití formulářů na webu. Element `<form>` a jeho základní atributy (action, method, enctype aj.). Formulářové prvky – `<input>` a jeho různé typy (text, password, email, number, checkbox, radio, file, date, color, range aj.), `<select>`, `<option>`, `<textarea>`, `<button>`, `<label>`, `<fieldset>`, `<legend>` a další. Atributy formulářových polí (name, value, placeholder, required, disabled, readonly, maxlength aj.). HTML validace formulářů. Propojení a zpracování formulářů JavaScriptem – čtení a nastavení hodnot, zpracování dat, události formulářů, validace na klientské straně. Odesílání dat metodami GET a POST.
 
-# [23.  CSS – selektory, responsivita](/PVY/WEB/Q23.md)
+# [23. CSS – selektory, responsivita](/PVY/WEB/Q23.md)
 
 Selektory (různé typy – id, class, element, atribut…) a kombinace selektorů, pseudotřídy a pseudoelementy. Priorita CSS stylů v HTML dokumentu. Stylování textů, pozadí prvků, margin a padding.
 
@@ -102,18 +102,18 @@ CSS grid – princip, význam a využití. Základní vlastnosti pro rodiče a p
 
 CSS flex – princip, význam a využití. Jednorozměrný layout systém (hlavní a křížová osa). Vlastnosti kontejneru: display: flex, flex-direction, flex-wrap, justify-content, align-items, align-content. Vlastnosti prvků: flex-grow, flex-shrink, flex-basis, zkratka flex, order, align-self. Rozdíly mezi flex a grid, kdy použít který přístup, možnost jejich kombinace. Flex vs. grid.
 
-# 26.  JS – Práce s událostmi
+# [26. JS – Práce s událostmi](/PVY/WEB/Q26.md)
 
-Události v JavaScriptu – význam a využití. Typy událostí (kliknutí, pohyb myši, klávesnice, události okna  aj.). Způsoby přiřazení obsluhy událostí - metoda addEventListener (doporučený způsob). Objekt události (event), důležité vlastnosti (clientX, clientY, key, altKey, ctrlKey a další). Princip bubbling, stopPropagation(), preventDefault().
+Události v JavaScriptu – význam a využití. Typy událostí (kliknutí, pohyb myši, klávesnice, události okna aj.). Způsoby přiřazení obsluhy událostí - metoda addEventListener (doporučený způsob). Objekt události (event), důležité vlastnosti (clientX, clientY, key, altKey, ctrlKey a další). Princip bubbling, stopPropagation(), preventDefault().
 
-# 27. Práce s DOM
+# [27. Práce s DOM](/PVY/WEB/Q27.md)
 
 Document Object Model (DOM), jeho význam a struktura. Stromová reprezentace HTML dokumentu, uzly a jejich typy. Přístup k prvkům pomocí různých metod, práce s kolekcemi prvků a cykly. Vytváření nových elementů a jejich vkládání do stránky různými způsoby (append, prepend, before, after, appendChild aj.). Odstraňování prvků (removeChild, remove a další). Úprava obsahu prvků – innerHTML, innerText, textContent a jiné. Práce s atributy obecně – získávání, nastavování, mazání, práce s datovými atributy. Traversování mezi elementy – rodiče, děti, sourozenci, počítání potomků a další způsoby pohybu ve stromu dokumentu. Propojení DOM s událostmi a dynamické úpravy obsahu stránky.
 
-# 28.  Časování skriptů
+# [28. Časování skriptů](/PVY/WEB/Q28.md)
 
-Časovače v JavaScriptu, princip a význam. Funkce setTi\meout a setInterval, rozdíly mezi nimi a jejich praktické využití. Zrušení časovačů pomocí clearTimeout a clearInterval. Využití časovačů pro opakované nebo odložené provádění kódu, periodické aktualizace obsahu stránky, animace, odpočítávání, dynamické prvky a jiné. Možnosti kombinace časovačů s událostmi a dalšími částmi aplikace.
+Časovače v JavaScriptu, princip a význam. Funkce setTimeout a setInterval, rozdíly mezi nimi a jejich praktické využití. Zrušení časovačů pomocí clearTimeout a clearInterval. Využití časovačů pro opakované nebo odložené provádění kódu, periodické aktualizace obsahu stránky, animace, odpočítávání, dynamické prvky a jiné. Možnosti kombinace časovačů s událostmi a dalšími částmi aplikace.
 
-# 29.  AJAX (fetch)
+# [29. AJAX (fetch)](/PVY/WEB/Q29.md)
 
 Asynchronní komunikace ve webových stránkách, význam a použití. Rozdíl mezi synchronní a asynchronní komunikací, výhody asynchronního přístupu. Možnosti využití funkce fetch v JavaScriptu pro komunikaci se serverem. Odesílání požadavků metodami GET a POST, práce s hlavičkami a tělem požadavku. Zpracování odpovědí serveru, převod na JSON a další formáty. Praktické využití při načítání dat, ukládání údajů, práci s API a jiné.
