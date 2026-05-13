@@ -8,7 +8,7 @@ Topologie sítě - druhy, srovnání; kabely sítě – metalické kabely, optic
 
 Sdílené a nesdílené přenosové medium, přístupové metody - metoda náhodného přístupu, přístupové metody v bezdrátových sítích, kolize a kolizní doména; broadcast a broadcastová doména; standardy síť hardwaru - Ethernet, kolize v Ethernetu – přístupová metoda, řešení kolizí, možnosti vyloučení kolizí v Ethernetu, omezení kolizní domény v Ethernetu, half-duplex a full-duplex v Ethernetu, standardy ethernetovských sítí, kabely a konektory v ethernetovské síti. Aktivní prvky sítě -  REPEATER, HUB, BRIDGE, SWITCH, ROUTER, GATEWAY, princip jejich funkce, souvislost s ISO-OSI a TCP/IP, možnosti použití, rozdíly v přepínání na druhé a třetí vrstvě, výhody náhrady hubu switchem v sítích Ethernet; segmentace sítě – omezení kolizní domény
 
-## 3. Vrstevnaté modely a architektury
+## [3. Vrstevnaté modely a architektury](/SPS/questions/Q3.md)
 
 Vrstevnaté modely a architektury, model ISO/OSI a architektura TCP/IP - funkce jednotlivých vrstev; paket a struktura paketu, hlavička IP paketu, rámec, segment;  pojem protokol a port, protokoly soustavy TCP/IP, význam jednotlivých protokolů na jednotlivých vrstvách, čísla portů.
 
@@ -48,23 +48,23 @@ Směrování - účel, druhy směrování (statické dynamické, adaptivní, nea
 
 Systém symbolických jmen v IP síti – možné způsoby  realizace, doménový systém – důvody realizace, princip funkce, DNS v Internetu – struktura domén, vyhledávání uzlu dle jména v DNS; doména, subdoména, zóna – vysvětlit pojmy, DNS servery – druhy (autoritativní, neautoritativní, primární, sekundární, cahing-only, forwarding-only), funkce v systému DNS, reverzní doména (zóna), kanonický název uzlu, alias uzlu – vysvětlit pojmy, základní záznamy v databázi DNS (A, CNAME, NS, SOA, PTR), vysvětlit druhy záznamů; příkaz nslookup. Konfigurace DNS serveru a DNS klienta v prostředí MS Windows s A.D. i bez. A.D..
 
-## 13. Služba DHCP v systému Windows Server
+## [13. Služba DHCP v systému Windows Server](/SPS/questions/Q13.md)
 
 Dynamické přidělování IP adres – výhody, nevýhody, rozdíl mezi statickým a dynamickým přidělováním IP adres, základní části DHCP služby  ( DHCP klient, DHCP server, DHCP relay) a jejich konfigurace v prostředí Microsoft Windows s A.D. i bez. A.D..; propojení služeb DNS a DHCP v prostředí Microsoft Windows.
 
-## 14. Služby IIS
+## [14. Služby IIS](/SPS/questions/Q14.md)
 
 IIS – význam a možnosti konfigurace jednotlivých služeb IIS; zabezpečení přenosu pomocí SSL certifikátu, vytvoření SSL certifikátu (podepsaný sám sebou); možné způsoby ověření uživatelů služeb IIS (pomocí uživatelských účtů ve Windows bez Active Directory, s Active Directory, ověřování pomocí klientských certifikátů).
 
-## 15. Uživatelské profily
+## [15. Uživatelské profily](/SPS/questions/Q15.md)
 
 Uživatelské profily, jednotlivé typy a jejich význam – místí, cestovní (roamingový), povinný (mandatorní), význam souboru NTUSER.DAT, adresáře Documents and Settings a domovské adresáře – rozdíl, využití a konfigurace, systémové proměnné %username% a %systemroot% - adresáře All Users a Default User - význam, možnosti konfigurace jednotlivých uživatelských profilů – omezení, kopírování, nastavování a využití víceuživatelského profilu; vytvoření a konfigurace uživatelského profilu a mandatorního profilu v prostředí Active Directory (včetně nastavení práv ke sdíleným složkám profilů)
 
-## 16. Diskový systém pod operačním systémem Windows Server
+## [16. Diskový systém pod operačním systémem Windows Server](/SPS/questions/Q16.md)
 
 Základní a dynamické disky, typy svazků dynamických disků – rozdíly a význam, signatura disku, utility pro práci s disky, správce disků – převedení na dynamické disky, konfigurace, souborový systém NTFS,  princip ukládání dat ( metasoubory, atributy ), omezení místa na svazku uživatelům (kvóty) – konfigurace, protokolování a audit kvót.
 
-## 17. Zabezpečení dat
+## [17. Zabezpečení dat](/SPS/questions/Q17.md)
 
 Certifikační server, certifikační autorita, certifikáty, šifrování, druhy šifrování, symetrické a asymetrické šifrování, privátní a veřejný klíč, digitální a elektronický podpis; bezpečnostní cíle šifrování dat ( zabezpečení při přenosu dat, neodmítnutelnost odpovědnosti, zajištění integrity dat ), hash funkce a hash hodnota, časová razítka, instalace a konfigurace certifikační autority v prostředí Windows. Vystavení certifikátů  CA v prostředí Windows pro službu IIS. Vystavení osobních certifikátů uživatelů CA v prostředí Windows.
 
@@ -72,7 +72,7 @@ Certifikační server, certifikační autorita, certifikáty, šifrování, druh
 
 Spouštění programů na popředí a na pozadí; pojem proces, ukončení a pozastavení procesu na popředí a na pozadí (fg, bg, & , sekvenční a konkurenční spouštění úloh, rodičovský proces a potomek, skupina procesů a procesy patřící do jedné session,identifikace procesů (číslo úlohy, PID, PPID, PGID, SID), zabíjení procesů (kill ) a signály ( TERM, KILL, STOP, CONT, HUP ), informace o procesech (jobs, ps, top), priorita procesů (nice, renice), plánované spouštění úloh (at, cron, anacron - konfigurace, konfigurační soubory); význam souborového systému /proc, spouštění procesů pod jinou identitou (su, sudo).
 
-## 19. Uživatelské účty v systému Linux
+## [19. Uživatelské účty v systému Linux](/SPS/questions/Q19.md)
 
 Vytvoření a konfigurace uživatelských účtů a skupin (useradd, groupadd, usermod, groupmod, userdel, groupdel, chage, groups, id, last, passwd, users, who, whoami), konfigurační soubory uživatelských účtů (useradd, login.defs, passwd,  shadow, group) a význam jednotlivých položek v těchto souborech.
 
@@ -92,7 +92,7 @@ Pojem diskové pole, úrovně diskového pole RAID0, RAID1, RAID5 – odlišnost
 
 Pojem svazek, pojmy physical volume, volume group, logical volume, výhody proti běžnému logickému disku, vytvoření svazku, rozšíření svazku, odstranění svazku, svazky a disková pole, konfigurace svazku (pvs, pvcreate, pvremove, pvdisplay, lvs, lvcreate, lvremove, lvdisplay, vgs, vgcreate, vgremove, vgdisplay, vgchange, pvextend, lvextend, resize2fs, lvreduce, vgreduce)
 
-## 24. Základy souborového systému v Linuxu
+## [24. Základy souborového systému v Linuxu](/SPS/questions/Q24.md)
 
 Soubory zařízení, diskové oblasti, tvorba a konfigurace diskových oblastí (fdisk, sfdisk, parted),  základní pojmy souborového systému (inode, superblok, datový blok, adresářový blok, journal); adresáře – struktura a význam jednotlivých adresářů, typy  souborů ( symbolický odkaz, pevný odkaz, blokové zařízení, znakové zařízení, pojmenovaná roura, adresář), atributy souborů (suid, sgid, sticky, vlastník, skupinový vlastník), základní příkazy (man, cd, ls, cat, vi,  ln, mkdir, rmdir, cp, rm, mv, mkfifo, find, grep, tar).
 
@@ -100,7 +100,7 @@ Soubory zařízení, diskové oblasti, tvorba a konfigurace diskových oblastí 
 
 Základní konfigurace síťového rozhraní ( nmcli, ifconfig, ip, route, konfigurační soubory); DNS server (konfigurační soubory DNS serveru, spouštění DNS serveru a klienta, konfigurace primárního, sekundárního, caching  a forwarding DNS serveru, konfigurace poddomény - glue záznamy).
 
-## 26. Základní operace se soubory, přístupová práva a atributy souborů
+## [26. Základní operace se soubory, přístupová práva a atributy souborů](/SPS/questions/Q26.md)
 
 Přístupová práva a atributy k souboru – vysvětlit, manipulace s právy a atributy (číselné vyjádření, zobrazení práv a atributů, příkazy ls, chmod, chgrp, chown), přesměrování vstupu a výstupu – k čemu slouží, příklady využití, roura a pojmenovaná roura – k čemu slouží, příklady využití; příkazy man, cd, ls, cat, vi,  ln, mkdir, rmdir, cp, rm, mv, mkfifo, find, grep, tar, touch
 
