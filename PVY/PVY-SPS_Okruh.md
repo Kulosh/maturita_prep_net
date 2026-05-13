@@ -114,6 +114,6 @@ Document Object Model (DOM), jeho význam a struktura. Stromová reprezentace HT
 
 Časovače v JavaScriptu, princip a význam. Funkce setTimeout a setInterval, rozdíly mezi nimi a jejich praktické využití. Zrušení časovačů pomocí clearTimeout a clearInterval. Využití časovačů pro opakované nebo odložené provádění kódu, periodické aktualizace obsahu stránky, animace, odpočítávání, dynamické prvky a jiné. Možnosti kombinace časovačů s událostmi a dalšími částmi aplikace.
 
-# 29.  AJAX (fetch)
+# [29. AJAX (fetch)](/PVY/WEB/Q29.md)
 
 Asynchronní komunikace ve webových stránkách, význam a použití. Rozdíl mezi synchronní a asynchronní komunikací, výhody asynchronního přístupu. Možnosti využití funkce fetch v JavaScriptu pro komunikaci se serverem. Odesílání požadavků metodami GET a POST, práce s hlavičkami a tělem požadavku. Zpracování odpovědí serveru, převod na JSON a další formáty. Praktické využití při načítání dat, ukládání údajů, práci s API a jiné.
